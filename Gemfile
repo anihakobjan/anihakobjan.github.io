@@ -15,3 +15,4 @@ end
 end
 
 gem 'github-pages'
+#text
