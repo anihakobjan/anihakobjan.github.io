@@ -17,7 +17,6 @@ Education
 * Master in Political Science, University of Bern, 2015 - 2016
 * Bachelor in Political Science, Yerevan State University, 2009 - 2013
 
-
 <br>
 
 Work experience
