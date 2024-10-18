@@ -18,7 +18,7 @@ I'm a Data Analyst based in Aalst, Belgium, with a background in operations, com
 
 I hold a MS in Political Science from Université Libre de Bruxelles, where I studied European policies, inter-regional governance, and research methodologies. The studies sparked my interest in network analysis, natural language processing, and the dynamic world of data science.
 
-Outside of data analytics, I spend my time working out, reading about psychotherapy, or learning Dutch.
+Outside of data analytics, I spend my time reading about psychotherapy, traveling, or learning Dutch.
 
 
 
