@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br><br>
+<br>
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
 * Bachelor in Political Science, Yerevan State University, 2009 - 2013
 
 
-
+<br>
 
 Work experience
 ======
