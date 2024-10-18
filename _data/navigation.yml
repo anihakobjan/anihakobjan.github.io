@@ -18,7 +18,7 @@ main:
     url: https://public.tableau.com/app/profile/ani.hakobyan/vizzes
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://hakobyan.substack.com/
     
   - title: "CV"
     url: /cv/
