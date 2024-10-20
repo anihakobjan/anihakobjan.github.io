@@ -22,8 +22,12 @@ Education
 Work experience
 ======
 Data Analyst, Freelance, 2022 - 2024
+
 Office Manager, D.G. fur Datenschutz / Willing and Able, 2019 - 2022
+
 Communications Officer, CCCI International, 2017 - 2019
+
 Research Analyst Intern, UNDP BERA, 2016 - 2017
+
 EVS  Volunteer, Schloss Glarisegg, 2014 - 2015
   
