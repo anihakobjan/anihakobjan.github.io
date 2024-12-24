@@ -17,8 +17,8 @@ main:
   - title: "Tableau"
     url: https://public.tableau.com/app/profile/ani.hakobyan/vizzes
         
-  - title: "Blog Posts"
-    url: https://hakobyan.substack.com/
+  - title: "Notebooks"
+    url: https://github.com/anihakobjan/Notebooks/blob/main/Numpy.ipynb/
     
   - title: "CV"
     url: /cv/
