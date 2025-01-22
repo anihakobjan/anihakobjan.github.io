@@ -14,8 +14,8 @@ main:
 #  - title: "Teaching"
  #   url: /teaching/    
     
- title: "Blog"
-   url: https://hakobyan.substack.com/   
+  - title: "Blog"
+    url: https://hakobyan.substack.com/   
     
   - title: "Tableau"
     url: https://public.tableau.com/app/profile/ani.hakobyan/vizzes
