@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
 * Master in Political Science, Université libre de Bruxelles, 2021 - 2022
