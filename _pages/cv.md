@@ -11,7 +11,6 @@ redirect_from:
 
 <br>
 
-
 Education
 ======
 * Master in Political Science, Université libre de Bruxelles, 2021 - 2022
