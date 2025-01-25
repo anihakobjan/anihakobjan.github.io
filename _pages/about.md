@@ -12,13 +12,9 @@ redirect_from:
 
 Hello!
 
+I'm a Data Analyst with great passion for multidisciplinary research.  
 
-I'm a Data Analyst with a background in operations, communication, and research. 
+Previously, I contributed to project development and managed operations at DGD - the German Association for Data Protection. On the research side, I focused extensively on the GDPR, privacy rights, and EU policies. For exmaple, I developed online training courses on EU regulations designed for third-party organizations. Additionally, I have worked for five years in the private sector as a Communications Officer for CCCI, a Japanese service provider.
 
-Before moving into Data Analytics, I spent most of my time optimizing workflows, contributing to project development, and researching EU policy regulations, particularly in the data privacy field. 
-
-I hold a MS in Political Science from Université Libre de Bruxelles, where I studied European policies, inter-regional governance, and research methodologies. The studies sparked my interest in network analysis, natural language processing, and the dynamic world of data science.
-
-Outside of research, I spend my time reading about psychology, animals, and permaculture.
-
+Outside of policy research, I am interested in natural language processing, network analysis, and AI safety.
 
